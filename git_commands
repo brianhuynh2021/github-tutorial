@@ -1,3 +1,6 @@
 git push origin --delete name_branch
 git branch -D name_branch
 git cherry-pick commit_abc..commit_xyz
+
+remove commit: git rebase --onto dc5ca41^ dc5ca41
+git push -f
