@@ -4,3 +4,11 @@ git cherry-pick commit_abc..commit_xyz
 
 remove commit: git rebase --onto dc5ca41^ dc5ca41
 git push -f
+
+
+
+- Not stand at your branch: To rename a branch you are not currently working in, you usually run the command git branch -m old-name new-name.
+
+For example, I’m currently on the main branch and I was able to rename kolade-works to kolade-codes.
+
+- Stand at you branch and change it: git branch -m new-name.
