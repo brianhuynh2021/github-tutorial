@@ -12,3 +12,7 @@ git push -f
 For example, I’m currently on the main branch and I was able to rename kolade-works to kolade-codes.
 
 - Stand at you branch and change it: git branch -m new-name.
+
+------------------------------------------------------------------------------------------------------------
+Work with multiple git account on your local machine
+https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3
